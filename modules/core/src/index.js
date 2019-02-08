@@ -67,8 +67,7 @@ export {default as _OrthographicController} from './controllers/orthographic-con
 // EXPERIMENTAL EXPORTS
 
 // Experimental Effects (non-React) bindings
-export {default as EffectManager} from './effects/effect-manager';
-export {default as Effect} from './effects/effect';
+export {default as Effect} from './lib/effect';
 
 // Eperimental Transitions
 export {TRANSITION_EVENTS} from './controllers/transition-manager';

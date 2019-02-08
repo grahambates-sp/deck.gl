@@ -21,8 +21,8 @@
 import LayerManager from './layer-manager';
 import ViewManager from './view-manager';
 import MapView from '../views/map-view';
-import EffectManager from '../effects/effect-manager';
-import Effect from '../effects/effect';
+import EffectManager from './effect-manager';
+import Effect from './effect';
 import DeckRenderer from './deck-renderer';
 import log from '../utils/log';
 
